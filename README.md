@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/a1d366101ea2ae8860ad3fec0377447e2b7dd30076e19c4b8547b6636788b353/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a756c69615961646f7661267374796c653d666c61742d73717561726526636f6c6f723d626c7565
+https://img.shields.io/github/watchers/sergeypatrakov/sergeypatrakov?label=Profile%20views&style=social
