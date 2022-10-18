@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/github/watchers/sergeypatrakov/sergeypatrakov?label=Profile%20views&style=social
+### Мой стек: 
+
+<img src="https://img.shields.io/badge/Python-7FFFD4?style=for-the-badge&logo=Python&logoColor=black" />
