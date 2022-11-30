@@ -1,8 +1,5 @@
 ## Hi 👋 I'm Sergey
 
-## Backend Developer
-
-Doing something interesting on freelance.
 
 - Based in Moscow (Russia), but open for relocation opportunities
 - Self-education person
