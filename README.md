@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Sergey
 
 ### Junior Backend Developer
-![](https://komarev.com/ghpvc/?username=sergeypatrakov&color=blue)
 
 
 - 🌍 I'm based in Moscow (Russia), but open for relocation opportunities
@@ -10,6 +9,7 @@
 - ⚡ I'm really liked programming
 - 🧠 Learning algorithms for fun
 - 🏊‍♂️ Also a former professional swimmer
+
 
 
 ### Skills
@@ -31,5 +31,7 @@
 <br />
 <br />
 <br />
+<br />
 
 _Love is all we need._
+
