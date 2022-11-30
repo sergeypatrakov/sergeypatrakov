@@ -1,10 +1,9 @@
 ## Hi 👋 I'm Sergey
----
+
 
 ### Junior Backend Developer
-[](https:/komarev.com/ghpvc/?username=sergeypatrakov)
+![](https:/komarev.com/ghpvc/?username=sergeypatrakov&color=blue)
 
----
 
 - 🌍 I'm based in Moscow (Russia), but open for relocation opportunities
 -  📚 Self-education student
