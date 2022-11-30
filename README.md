@@ -1,14 +1,14 @@
 ## Hi 👋 I'm Sergey
 
-## Junior Backend Developer
+## Backend Developer
 
+Doing something interesting on freelance.
 
-- 🌍 I'm based in Moscow (Russia), but open for relocation opportunities
--  📚 Self-education person
-- ✉️ You can contact me at patrakovsergo@gmail.com or https://t.me/sergeypatrakov
-- ⚡ I'm really liked programming
-- 🧠 Learning algorithms for fun
-- 🏊‍♂️ Also a former professional swimmer
+- Based in Moscow (Russia), but open for relocation opportunities
+- Self-education person
+- Learning algorithms for fun
+- You can contact me at patrakovsergo@gmail.com or https://t.me/sergeypatrakov
+- Also a former professional swimmer
 
 
 
@@ -27,7 +27,6 @@
 
 [<img align="left" alt="GitHub" width="45px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />](https://github.com/sergeypatrakov)
 [<img align="left" alt="Telegram" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />](https://t.me/sergeypatrakov)
-[<img align="left" alt="Gmail" width="45px" src="https://raw.githubusercontent.com/themasterid/themasterid/main/svg/gmail.svg" />](patrakovsergo@gmail.com)
 
 <br />
 <br />
