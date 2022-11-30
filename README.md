@@ -1,4 +1,4 @@
-## Hi 👋 I'm Sergey
+## Hello!
 
 
 I'm learning Python since the beginning 2022. In my repositories you can find some projects completed with Yandex.Practicum as well as self-inspired [(click here)](https://github.com/sergeypatrakov/telegram_bot_mark). I like studying, learning new things and applying them to real world tasks. 
