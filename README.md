@@ -8,8 +8,6 @@ I'm learning programming since the May of 2022. In my repositories you can find 
 - Self-education person
 - Learning algorithms for fun
 - You can contact me at patrakovsergo@gmail.com or https://t.me/sergeypatrakov
-- Also a former professional swimmer
-
 
 
 ### Skills
@@ -29,11 +27,3 @@ I'm learning programming since the May of 2022. In my repositories you can find 
 
 [<img align="left" alt="GitHub" width="45px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />](https://github.com/sergeypatrakov)
 [<img align="left" alt="Telegram" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />](https://t.me/sergeypatrakov)
-
-<br />
-<br />
-<br />
-<br />
-
-_Love is all we need._
-
