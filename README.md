@@ -17,7 +17,8 @@ I'm learning programming since the May of 2022. In my repositories you can find 
 <img align="left" alt="HTML" width="45px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
 <img align="left" alt="CSS" width="45px" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"/>
 <img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"/>
-<img align="left" alt="Git" width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
+<img align="left" alt="Git" width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="Docker" width="45px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 
 <br />
 <br />
