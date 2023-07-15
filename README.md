@@ -4,7 +4,6 @@
 I'm learning programming since the May of 2022. In my repositories you can find some projects completed with Yandex.Practicum as well as self-inspired ones. I like studying, learning new things and applying them to real world tasks. Passed the qualifying intensive (Survival camp) for [School 21](https://21-school.ru) in June 23'
 
 
-- School 21 (Moscow)
 - Based in Moscow (Russia), but open for relocation opportunities
 - Self-education person
 - Learning algorithms for fun
