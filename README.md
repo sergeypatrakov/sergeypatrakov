@@ -1,11 +1,11 @@
 ## Hello!
 
-I like studying, learning new things and applying them to real world tasks. Passed the qualifying intensive (Survival camp) for [School 21](https://21-school.ru) in June 23'
+My name is Sergey. Programming and swimming have been my passions since I was a child, but I eventually focused exclusively on programming. I enjoy studying, learning new things, and applying them to real-world problems. I am currently enrolled in [School 21](https://21-school.ru) at Sber.
 
 
 - Based in Moscow (Russia), but open for relocation opportunities
 - Self-education person
-- Learning algorithms for fun [Leetcode](https://leetcode.com/sergeypatrakov/)
+- Learning algorithms for fun  [LeetCode](https://leetcode.com/sergeypatrakov/)
 - You can contact me at patrakovsergo@gmail.com or https://t.me/sergeypatrakov
 
 
