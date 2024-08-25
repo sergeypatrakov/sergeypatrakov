@@ -6,9 +6,6 @@ My name is Sergey. Programming and swimming have been my passions since I was a 
 - Based in Moscow (Russia), but open for relocation opportunities
 - Self-education person
 - Learning algorithms for fun  [LeetCode](https://leetcode.com/sergeypatrakov/)
-
-![](https://leetcard.jacoblin.cool/sergeypatrakov?border=0&radius=20)
-
 - You can contact me at patrakovsergo@gmail.com or https://t.me/sergeypatrakov
 
 
